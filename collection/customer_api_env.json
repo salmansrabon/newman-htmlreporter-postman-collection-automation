@@ -35,7 +35,7 @@
 		{
 			"key": "url",
 			"value": "https://customer-test-api.herokuapp.com",
-			"enabled": false
+			"enabled": true
 		},
 		{
 			"key": "token",
